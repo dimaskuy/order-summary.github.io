@@ -1,6 +1,6 @@
 # Frontend Mentor - Order summary card solution
 
-[👨‍💻 View live site](https://github.com/dimaskuy/order-summary.github.io.git)
+[👨‍💻 View live site](https://dimaskuy.github.io/order-summary.github.io.git)
 
 This is a solution to the [Order summary card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
