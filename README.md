@@ -2,9 +2,9 @@
 
 ![Design preview for the Order summary card coding challenge](./design/desktop-preview.jpg)
 
-## Welcome! 👋
+[👨‍💻 View live site](dimaskuy.github.io/order-summary.github.io/)
 
-[View live site](dimaskuy.github.io/order-summary.github.io/)
+## Welcome! 👋
 
 Thanks for checking out this front-end coding challenge.
 
