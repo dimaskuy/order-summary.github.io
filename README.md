@@ -1,5 +1,7 @@
 # Frontend Mentor - Order summary card
 
+[dimaskuy.github.io/order-summary.github.io/]
+
 ![Design preview for the Order summary card coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
