@@ -1,6 +1,6 @@
 # Frontend Mentor - Order summary card solution
 
-[👨‍💻 View live site](https://dimaskuy.github.io/order-summary.github.io.git)
+[👨‍💻 View live site](https://dimaskuy.github.io/order-summary.github.io/)
 
 This is a solution to the [Order summary card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
@@ -42,8 +42,8 @@ Users should be able to:
 - CSS
 - CSS Custom Variable
 - CSS Flexbox
-- Bootstrap Framework [(Bootstrap Framework site)](https://getbootstrap.com)
-- Animate on Scroll Library [(AOS Library site)](https://michalsnik.github.io/aos/)
+- Bootstrap Framework ([Bootstrap Framework site)](https://getbootstrap.com))
+- Animate on Scroll Library ([AOS Library site](https://michalsnik.github.io/aos/))
 
 ### What I learned
 
