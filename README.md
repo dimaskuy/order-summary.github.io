@@ -42,7 +42,7 @@ Users should be able to:
 - CSS
 - CSS Custom Variable
 - CSS Flexbox
-- Bootstrap Framework ([Bootstrap Framework site)](https://getbootstrap.com))
+- Bootstrap Framework ([Bootstrap Framework site](https://getbootstrap.com))
 - Animate on Scroll Library ([AOS Library site](https://michalsnik.github.io/aos/))
 
 ### What I learned
