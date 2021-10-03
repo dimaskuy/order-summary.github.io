@@ -29,12 +29,6 @@ Users should be able to:
 
 ![Page screenshot](images/page-sc.png)
 
-Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
-
-Alternatively, you can use a tool like [FireShot](https://getfireshot.com/) to take the screenshot. FireShot has a free option, so you don't need to purchase it.
-
-Then crop/optimize/edit your image however you like, add it to your project, and update the file path in the image above.
-
 ### Links
 
 - Solution URL: [Solution URL](https://your-solution-url.com)
@@ -48,16 +42,16 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 - CSS
 - CSS Custom Variable
 - CSS Flexbox
-- Bootstrap Framework [Bootstrap Framework site](https://getbootstrap.com)
-- Animate on Scroll Library [AOS Library site](https://michalsnik.github.io/aos/)
+- Bootstrap Framework [(Bootstrap Framework site)](https://getbootstrap.com)
+- Animate on Scroll Library [(AOS Library site)](https://michalsnik.github.io/aos/)
 
 ### What I learned
 
-Use this section to recap over some of your major learnings while working through this project. In this project, I've learned by experimenting with more complex Flexbox CSS. And this is the third time I've applied design to code.
+In this project, I've learned by experimenting with more complex Flexbox CSS. And this is the third time I've applied design to code.
 
 ### Continued development
 
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
+I hope that in the future, I will always experience developments in making websites or applying designs to websites.
 
 ## Author
 
@@ -68,4 +62,4 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 ## Acknowledgments
 
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
+Thank you to all Frontend Mentors who have given challenges to junior developers like me.
