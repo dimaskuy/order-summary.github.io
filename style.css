@@ -36,7 +36,7 @@ body::before {
 .card {
   border-radius: 20px;
   border: none;
-  box-shadow: rgba(0, 0, 0, 0.1) 0 20px 60px -10px;
+  box-shadow: rgba(56,41,224,.2) 0 20px 60px -10px;
 }
 .card-img-top { border-radius: 20px 20px 0 0; }
 
@@ -45,7 +45,7 @@ body::before {
   color: var(--dark-blue);
   font-weight: 900 !important;
 }
-.card-text { font-size: 1rem; line-height: 145%; }
+.card-text { font-size: 1rem; line-height: 145%; width: 90%; }
 
 .plan-box {
   background: var(--very-pale-blue);
@@ -80,6 +80,7 @@ body::before {
 }
 .change-plan:hover {
   text-decoration: none;
+  color: var(--bright-blue) !important;
   opacity: 0.8;
 }
 
