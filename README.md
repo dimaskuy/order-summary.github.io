@@ -4,7 +4,7 @@
 
 ## Welcome! 👋
 
-[dimaskuy.github.io/order-summary.github.io/]
+[View live site](dimaskuy.github.io/order-summary.github.io/)
 
 Thanks for checking out this front-end coding challenge.
 
