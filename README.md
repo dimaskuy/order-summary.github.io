@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution URL](https://your-solution-url.com)
+- Solution URL: [Solution URL](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj/hub/order-summary-card-bootstrap-flexbox-JjnPYjZ-l)
 - Live Site URL: [Live site](https://dimaskuy.github.io/order-summary.github.io/)
 
 ## My process
